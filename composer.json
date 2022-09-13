@@ -1,5 +1,5 @@
 {
-    "name": "jukkatawast/phpexiftool",
+    "name": "markoschmidt/phpexiftool",
     "type": "library",
     "description": "Exiftool driver for PHP",
     "keywords": [
@@ -58,11 +58,6 @@
     "autoload": {
         "psr-0": {
             "PHPExiftool\\": "lib/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.5.x-dev"
         }
     }
 }
